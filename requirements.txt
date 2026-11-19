@@ -1,3 +1,5 @@
 tensorflow
-gradio
+streamlit
 opencv-python-headless
+pillow
+requests
